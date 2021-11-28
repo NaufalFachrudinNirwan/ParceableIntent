@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">ParceableIntent</string>
-    <string name="dial_number">DialNumber</string>
-    <string name="move_with_result">MoveWithResult</string>
-    <string name="result_from_activity">ResultFromActivity</string>
-    <string name="choose_number">ChooseNumber</string>
-    <string name="_50"></string>
-    <string name="_100"></string>
-    <string name="_150"></string>
-    <string name="_200"></string>
+    <string name="dial_number">Dial Number</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil : $s</string>
+    <string name="choose_number">Choose Number</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
 </resources>
